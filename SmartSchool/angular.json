@@ -8,7 +8,7 @@
       "schematics": {},
       "root": "",
       "sourceRoot": "src",
-      "prefix": "app",
+      "prefix": "angularDotnet",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -97,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "3fccc5b9-4a72-4735-ab9e-c4d07cbb1fee"
   }
 }
